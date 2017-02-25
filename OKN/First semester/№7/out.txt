@@ -1,0 +1,13 @@
+  Summa        Times
+
+  Summa 1    Times 1
+
+  29999997     46293
+
+  Summa 2    Times 2
+
+  49999996    136883
+
+  Summa 3    Times 3
+
+-2004259217     93766
